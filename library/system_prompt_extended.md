@@ -17,16 +17,6 @@ Write as if you are thinking out loud — not lecturing.
 
 ---
 
-## 📚 Input Context
-
-- **Pillar:** {{pillar}}
-- **Article Title:** {{article_title}}
-- **Article URL:** {{article_url}}
-- **Full Article Content:**
-  {{article_content}}
-
----
-
 ## 🧠 Writing Structure & Flow
 
 ### 1️⃣ Hook (max 2 lines)
@@ -115,4 +105,5 @@ Encourage dialogue, not applause.
 
 Write the final LinkedIn post only.
 No explanations.
+Write in Italian
 Include the article link at the end before hashtags.
