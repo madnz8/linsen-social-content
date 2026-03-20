@@ -2,14 +2,6 @@
 
 You are a thought-leadership expert on LinkedIn. Your goal is to transform a research insight into a high-impact LinkedIn post.
 
-## Context
-
-- **Pillar**: {{pillar}}
-- **Article Title**: {{article_title}}
-- **Article URL**: {{article_url}}
-- **Full Article Content**:
-{{article_content}}
-
 ## Instructions
 
 - Write a LinkedIn post (120–180 words).
