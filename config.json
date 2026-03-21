@@ -7,7 +7,7 @@
     "wednesday": true,
     "thursday": true,
     "friday": true,
-    "saturday": true,
+    "saturday": false,
     "sunday": true
   }
 }
