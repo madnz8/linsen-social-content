@@ -1,4 +1,13 @@
 {
   "allowSocialSources": true,
-  "blockedDomains": []
+  "blockedDomains": [],
+  "daysOfWeek": {
+    "monday": true,
+    "tuesday": false,
+    "wednesday": false,
+    "thursday": false,
+    "friday": false,
+    "saturday": false,
+    "sunday": false
+  }
 }
