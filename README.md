@@ -1,3 +1,11 @@
+## How Topic Selection Works
+
+The automation uses `pillars.json` as a guide for what kind of content to look for. Each pillar represents a strategic theme, and its keywords help the system search for relevant articles and posts online.
+
+Every day, the automation searches for recent content related to those pillars, removes sources that are blocked in `config.json`, and then asks AI to choose the best topics for LINSEN. The AI does not just pick random links: it tries to find strong, relevant, and varied ideas that fit the LINSEN positioning.
+
+The automation also keeps a memory of topics that were already selected in previous runs. This helps reduce duplicates over time, so it is less likely to suggest the same angle again. The memory is not perfect, but it is designed to avoid obvious repetition while keeping the system simple and flexible.
+
 ## Files
 
 - `system_prompt.md`: controls how the LinkedIn post is written.
